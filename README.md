@@ -1,7 +1,10 @@
-<h1 align="left">Hi 👋, I'm Eduardo Correia</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009bdb&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=009bdb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Eduardo+Correia;I'm+from+Portugal;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardoc74&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoc74" /> </p>
 
-🎓 I'm a portuguese final year computer engineering student at Coimbra Institute of Engineering
+🎓 I'm a final year computer engineering student at Coimbra Institute of Engineering
 
 <hr>
 
@@ -29,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoc74&show_icons=true&locale=en" alt="eduardoc74" /></p>
 
 <img alt="snake eating my contribution" src="https://github.com/EduardoC74/EduardoC74/blob/output/github-contribution-grid-snake.svg" >
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009bdb&height=120&section=footer"/>
