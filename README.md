@@ -27,3 +27,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoc74&show_icons=true&locale=en&layout=compact" alt="eduardoc74" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoc74&show_icons=true&locale=en" alt="eduardoc74" /></p>
+
+<div align="center">
+<img alt="snake eating my contribution" src="https://github.com/EduardoC74/EduardoC74/blob/output/github-contribution-grid-snake.svg" >
+</div>
