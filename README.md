@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardoc74&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoc74" /> </p>
 
-🎓 I'm a final year computer engineering student at Coimbra Institute of Engineering
+🎓 I have a degree in computer engineering from the Instituto Superior de Engenharia de Coimbra.
 
 <hr>
 
