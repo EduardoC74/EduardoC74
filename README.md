@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardoc74&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoc74" /> </p>
 
 🎓 I have a bachelor's degree in Software Engineering from the Instituto Superior de Engenharia de Coimbra. </br>
-I'm a programmer at Deloitte.
+🧑🏻‍💻 I'm a programmer at Deloitte.
 
 <hr>
 
