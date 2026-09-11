@@ -65,8 +65,7 @@
 <hr>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=eduardoc74&show_icons=true&count_private=true&hide_border=true&title_color=009bdb&icon_color=009bdb&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Correia github stats" />
-  <img width="48%" src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=eduardoc74&layout=compact&hide_border=true&title_color=009bdb&text_color=009bdb&bg_color=0d1117" alt="Eduardo Correia top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoC74&theme=dark&background=0d1117&fire=009bdb&ring=009bdb&sidebars=009bdb&currStreakLabel=009bdb&border=0d1117" alt="Eduardo Correia streak stats" />
   
   <br/><br/>
   
