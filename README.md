@@ -66,10 +66,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoC74&theme=dark&background=0d1117&fire=009bdb&ring=009bdb&sidebars=009bdb&currStreakLabel=009bdb&border=0d1117" alt="Eduardo Correia streak stats" />
-  
-  <br/><br/>
-  
-  <img width="100%" alt="snake eating contribution grid" src="https://raw.githubusercontent.com/EduardoC74/EduardoC74/output/github-contribution-grid-snake.svg" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009bdb&height=120&section=footer"/>
