@@ -62,7 +62,6 @@
 * **DevOps, Testing & Build:** Maven, CI/CD Pipelines, JUnit 5, Mockito
 * **Methodologies & Collaboration:** Agile (Scrum), Jira, Confluence, Figma
 
-<hr>
 
 <div align="center">
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardoC74&show_icons=true&count_private=true&hide_border=true&title_color=009bdb&icon_color=009bdb&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Correia github stats" />
