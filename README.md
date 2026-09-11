@@ -64,13 +64,10 @@
 
 <hr>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.auth-gateway.workers.dev/api?username=eduardoc74&show_icons=true&count_private=true&hide_border=true&title_color=009bdb&icon_color=009bdb&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Correia github stats" />
-  <img width="48%" src="https://github-readme-stats.auth-gateway.workers.dev/api/top-langs/?username=eduardoc74&layout=compact&hide_border=true&title_color=009bdb&text_color=009bdb&bg_color=0d1117" alt="Eduardo Correia top languages" />
-  
-  <br/><br/>
-  
-  <img width="100%" alt="snake eating contribution grid" src="https://raw.githubusercontent.com/EduardoC74/EduardoC74/output/github-contribution-grid-snake.svg" />
+<div align="center"> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardoC74&show_icons=true&count_private=true&hide_border=true&title_color=009bdb&icon_color=009bdb&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Correia github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoC74&layout=compact&hide_border=true&title_color=009bdb&text_color=009bdb&bg_color=0d1117" />
+  <img alt="snake eating my contribution" src="https://github.com/EduardoC74/EduardoC74/blob/output/github-contribution-grid-snake.svg" >
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009bdb&height=120&section=footer"/>
