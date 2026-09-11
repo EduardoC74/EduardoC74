@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009bdb&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=009bdb&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Eduardo+Correia;Backend+Software+Engineer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=009bdb&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Eduardo+Correia;Backend+Software+Engineer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardoc74&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoc74" /> </p>
 
