@@ -58,9 +58,9 @@
 
 ### 📝 Detailed Tech Stack
 * **Backend & Architecture:** Microservices, Spring Cloud (OpenFeign), JPA / Hibernate, RESTful APIs, OpenAPI / Swagger, JWT
-* **Databases & Tools:** Flyway, Elasticsearch, Maven
-* **DevOps & Testing:** CI/CD Pipelines, JUnit 5, Mockito
-* **Methodologies & Tools:** Agile (Scrum), Jira, Confluence, Figma
+* **Databases & Caching:** Flyway, Elasticsearch
+* **DevOps, Testing & Build:** Maven, CI/CD Pipelines, JUnit 5, Mockito
+* **Methodologies & Collaboration:** Agile (Scrum), Jira, Confluence, Figma
 
 <hr>
 
